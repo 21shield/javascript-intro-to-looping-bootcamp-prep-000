@@ -15,8 +15,8 @@ function whileLoop(num){
   }return 'done'
 }
 
-function incrementVariable(){
 let  i =0
+function incrementVariable(){
   i +=1
   return i
 }
